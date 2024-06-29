@@ -1,1 +1,23 @@
+body {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
 
+#panel1 {
+     background-color: #4361ee;
+     height: 100%;
+     width: 25%;
+}
+
+#panel2 {
+     background-color: #7209b7;
+     height: 100%;
+     width: 50%;
+}
+
+#panel3 {
+     background-color: #56ab91;
+     height: 100%;
+     width: 25%;
+}
